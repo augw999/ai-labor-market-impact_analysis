@@ -1,7 +1,5 @@
 """
 Aug Wu, Bouba Bubanji Katompa, and Bridgid Cutright
-CSE 163 AC
-Analysis pipeline for the final project.
 
 This module:
 - Loads pre-processed occupation data from cleaned CSV files produced by EDA

@@ -1,7 +1,6 @@
 """
 Aug Wu, Bouba Bubanji Katompa, and Bridgid Cutright
-CSE 163 AC
-Exploratory Data Analysis (EDA) pipeline for the final project.
+Exploratory Data Analysis (EDA) pipeline.
 
 This module:
 - Loads AIOE and OEWS datasets from Excel files

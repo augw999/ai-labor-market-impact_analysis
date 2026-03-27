@@ -1,8 +1,7 @@
 """
 Aug Wu, Bouba Bubanji Katompa, and Bridgid Cutright
-CSE 163 AC
 
-Testing file for EDA_260304.py and analysis_260309.py (CSE 163 group project).
+Testing file for EDA_260304.py and analysis_260309.py.
 
 Run:
     python testing.py
